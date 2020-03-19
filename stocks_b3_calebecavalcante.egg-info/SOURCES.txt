@@ -1,8 +1,0 @@
-setup.py
-src/__init__.py
-src/collect/__init__.py
-src/collect/curl.py
-stocks_b3_calebecavalcante.egg-info/PKG-INFO
-stocks_b3_calebecavalcante.egg-info/SOURCES.txt
-stocks_b3_calebecavalcante.egg-info/dependency_links.txt
-stocks_b3_calebecavalcante.egg-info/top_level.txt
