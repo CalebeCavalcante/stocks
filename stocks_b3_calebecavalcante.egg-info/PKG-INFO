@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: stocks-b3-calebecavalcante
+Version: 0.0.1
+Summary: Buscar dados das ações na B3, hospedadas no site https://finance.yahoo.com/
+Home-page: https://github.com/CalebeCavalcante/stocks
+Author: Calebe Cavalcante
+Author-email: calebesantos.cavalcante@gmail.com
+License: UNKNOWN
+Description: # Stocks B3 BOVESPA
+        
+        Objetivo principal Ã© atualizar os Ãºltimos PreÃ§os das aÃ§Ãµes solicitadas.
+        
+        ### Packages necessÃ¡rias
+            * Requests
+            * pytest
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
